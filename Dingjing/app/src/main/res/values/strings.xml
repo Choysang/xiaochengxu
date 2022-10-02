@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">定睛</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">用户名</string>
+    <string name="password">密码</string>
+    <string name="signUp">注册</string>
+    <string name="signIn">登录</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">专注测试</string>
+    <string name="title_dashboard">发现</string>
+    <string name="title_notifications">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_title_import">Import</string>
+    <string name="nav_title_gallery">Gallery</string>
+    <string name="nav_title_slideshow">Slideshow</string>
+    <string name="nav_title_tools">Tools</string>
+    <string name="nav_title_share">Share</string>
+    <string name="nav_title_toggle_theme">Toggle Theme</string>
+    <string name="title_topic_course">Design Thinking</string>
+    <string name="number_courses">19 courses</string>
+    <string name="msg_splash">EducationApp</string>
+    <string name="todo">todo</string>
+
+    <string name="smallClass">学习小班</string>
+    <string name="teacher">教师</string>
+    <string name="student">学生</string>
+    <string name='input_class_name'>输入班级名称</string>
+    <string name='input_student_name'>输入学生信息</string>
+    <string name='delete_title'>确认删除吗？</string>
+    <string name='dialog_cancel'>取消</string>
+    <string name='dialog_ok'>确认</string>
+</resources>

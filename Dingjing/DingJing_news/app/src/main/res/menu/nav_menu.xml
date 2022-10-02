@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/news_daily"
+            android:title="每日简报" />
+        <item
+            android:id="@+id/news_science"
+            android:title="科技新闻" />
+        <item
+            android:id="@+id/news_explore"
+            android:title="探索新闻" />
+        <item
+            android:id="@+id/news_ai"
+            android:title="人工智能新闻" />
+        <item
+            android:id="@+id/news_blockchain"
+            android:title="区块链新闻" />
+        <item
+            android:id="@+id/news_it"
+            android:title="IT新闻" />
+        <item
+            android:id="@+id/news_vr"
+            android:title="VR新闻" />
+        <item
+            android:id="@+id/news_mobile"
+            android:title="手机新闻" />
+        <item
+            android:id="@+id/news_create"
+            android:title="创业新闻" />
+
+    </group>
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDingJing.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDingJing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DingJing_news/AndroidDingJing.DingJing_news.iml" filepath="$PROJECT_DIR$/.idea/modules/DingJing_news/AndroidDingJing.DingJing_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDingJing.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDingJing.app.iml" />
+    </modules>
+  </component>
+</project>
